@@ -9,7 +9,6 @@ tags: [test]
 comments: true
 ---
 
-![Xhaka](/assets/img/xhaka.jpg)
 
 Xhaka has been a player who has divided opinions about his time at Arsenal, but in recent times has been an undoubtedly important part of Mikel Arteta’s midfield. While some may bring up his error-prone nature, the midfield just hasn’t looked right without him in it, especially with new signing Thomas Partey having spent most of his time injured in his first season in the Premiership. Another major positive about Xhaka is that he’s hardly ever not available for selection. Looking back at the past season and the gruelling schedule which the players had to endure, it wasn’t surprising to see the number of injuries that occurred as a consequence of this. What was surprising though was seeing Xhaka play through this schedule, mid-week and weekend, maintaining high fitness levels. His ball retention and carrying abilities are also underrated aspects of his.
 
