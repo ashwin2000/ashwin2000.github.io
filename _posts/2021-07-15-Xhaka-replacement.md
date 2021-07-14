@@ -75,7 +75,7 @@ His career at Bordeaux also didn’t get off to the best start. He started just 
 Adli might be the most realistic to get of all the players I’ve written about here who can maybe take Xhaka’s place, with Bordeaux in midtable and strapped for funds because of the recent debacle in Ligue 1 TV rights, which screwed over most Ligue 1 clubs. I’d imagine a bid of about 20 million would be enough to convince them to sell, a 300% profit.
    
    
-## Manuel Loactelli
+## Manuel Locatelli
 
 ![Locatelli](/assets/img/locatelli.jpg)
 
