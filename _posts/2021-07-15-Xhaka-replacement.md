@@ -36,7 +36,7 @@ The one that got away. First choice for me. I still remember the winter of 2020 
 
 His passing is impressive with 88.9% of all attempted passes completed. In addition to this, he averages almost the same amount of progressive passes as Xhaka and is in fact a better carrier of the ball. He’s also more involved in the final third, which is evident by his better xA, xG and Shot Creating Actions per 90. He’s a hard worker off the ball and presses well and is a good ball-winner. He has had the experience of playing in a pivot at Paranaense on the left-hand side and has the ability to play across the midfield so this could prove helpful in case Arteta ever decides to change to a different system.
 
-![Guimares stats](/assets/img/Xhaka Guimares.png)
+![Guimares stats](/assets/img/Xhaka Guimares.png){: .mx-auto.d-block :}
 
 All things said though, this will be a hard transfer to pull off given his length of contract and Lyon playing in Europe next year. Offering him a good contract and promising a good project may help entice him. Lyon may ask for 40-50 million Euros and I think they may be prepared to sell at this because of how Houssem Aouar’s value regressed from last to this season and also because of the new TV deal which blew up, costing the league millions, putting the teams in a severe cash crunch. Of course, they may choose to sell other people before him.
    
@@ -51,7 +51,7 @@ Quoting ex-Ajax youth coach Brian Tevreden in his interview with Goal, “Physic
 
 He’s also someone who is more involved in the attack than Xhaka and is very good at winning the ball high up the pitch. He also excels at carrying the ball into the final third and at progressive passing. It should be of little surprise that Liverpool are a team that are very interested in procuring his services given their high line and the recent departure of Gini Wijnaldum.
 
-![Gravenberch stats](/assets/img/Xhaka Gravenberch.png)
+![Gravenberch stats](/assets/img/Xhaka Gravenberch.png){: .mx-auto.d-block :}
 
 Getting him wouldn’t be a difficult task for Arsenal with Ajax being a traditional selling club that allows their top talents to leave for the right price, the most recent ones being Frenkie de Jong, Matthijs De Ligt and Donny Van De Beek. But a lot of clubs retain an interest in him and this in addition to Mino Raiola’s agent fees may be a stumbling block in his addition.
    
@@ -64,7 +64,7 @@ People who have been following Arsenal Transfer news for a while will recognise 
 
 His career at Bordeaux also didn’t get off to the best start. He started just 7 games and amassed just over 1000 minutes. Things took a turn for the good when the club appointed Jean-Louis Gasset, and Adli has found himself in the teamsheet more often than not. Gasset has Adli sat in the pivot and has mainly tasked him with winning back and progressing the ball. His defensive stats are also impressive and his work rate off the ball is very good as is characterised by his high number of “Pressures per 90”. His offensive stats are also something to not be ignored, his xA and Shot Creating Actions are very high for someone in a pivot.
 
-![Adli stats](/assets/img/Xhaka Adli.png)
+![Adli stats](/assets/img/Xhaka Adli.png){: .mx-auto.d-block :}
 
 Adli might be the most realistic to get of all the players I’ve written about here who can maybe take Xhaka’s place, with Bordeaux in midtable and strapped for funds because of the recent debacle in Ligue 1 TV rights, which screwed over most Ligue 1 clubs. I’d imagine a bid of about 20 million would be enough to convince them to sell, a 300% profit.
    
@@ -77,7 +77,7 @@ The most obvious name to be put on any Xhaka replacement list. He in fact has be
 
 His defensive contribution is also not to be overlooked. His tackles and interceptions per 90 are up there with the best in his league and this is inspite of him playing in possession heavy system under De Zerbi. He’s also aerialy imposing, standing at 6’1 feet, he may also prove handy during corners and set pieces.
 
-![Locatelli stats](/assets/img/Xhaka Locatelli.png)
+![Locatelli stats](/assets/img/Xhaka Locatelli.png){: .mx-auto.d-block :}
 
 He’s currently of interest to many clubs and at the front of the race are Juventus and Arsenal. Like most Italian players he isnt very enthusiastic about a move outside Italy and so inspite of Arsenal being in a position to pay his transfer fee and give him a better contract, he currently prefers a move to Juve. Arsenal’s chances of signing the player rests entirely on Juve not being able to meet Sassuolo’s demands and seem bleak at the moment.
    
