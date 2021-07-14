@@ -37,34 +37,46 @@ All things said though, this will be a hard transfer to pull off given his lengt
 
 ## Ryan Gravenberch
 
+![Gravenberch](/assets/img/Gravenberch.jpeg)
+
 Another product of the famous De Toekomst academy, Gravenberch has been touted for great things from a really young age. He made his debut at just 16 years, in fact being the youngest to do so, surpassing the record set by Clarence Seedorf by 112 days.
 
 Quoting ex-Ajax youth coach Brian Tevreden in his interview with Goal, “Physically, I see Frank (Rijkaard) in him from back in the day because he’s tall and very strong”, “Technically, I would say he’s a better version of Pogba in his best days at Juventus, in terms of his technique and his presence on the pitch. He’s very dominant like Pogba was, and that’s what I see in Ryan.”
 
 He’s also someone who is more involved in the attack than Xhaka and is very good at winning the ball high up the pitch. He also excels at carrying the ball into the final third and at progressive passing. It should be of little surprise that Liverpool are a team that are very interested in procuring his services given their high line and the recent departure of Gini Wijnaldum.
 
+![Gravenberch stats](/assets/img/Xhaka Gravenberch.png)
+
 Getting him wouldn’t be a difficult task for Arsenal with Ajax being a traditional selling club that allows their top talents to leave for the right price, the most recent ones being Frenkie de Jong, Matthijs De Ligt and Donny Van De Beek. But a lot of clubs retain an interest in him and this in addition to Mino Raiola’s agent fees may be a stumbling block in his addition.
 
 ## Yacine Adli
+
+![Adli](/assets/img/Adli.jpg)
 
 People who have been following Arsenal Transfer news for a while will recognise Adli, we were extensively linked to him in the summer of 2018 and in fact, many even started to believe we had signed him before he took a complete U-Turn and decided to sign a new 3-year contract with PSG after being promised regular minutes. The move proved to be a wrong one with him just playing one senior match and that too for seven minutes. He then moved on to Bordeaux in the next winter window for 5 million pounds.
 
 His career at Bordeaux also didn’t get off to the best start. He started just 7 games and amassed just over 1000 minutes. Things took a turn for the good when the club appointed Jean-Louis Gasset, and Adli has found himself in the teamsheet more often than not. Gasset has Adli sat in the pivot and has mainly tasked him with winning back and progressing the ball. His defensive stats are also impressive and his work rate off the ball is very good as is characterised by his high number of “Pressures per 90”. His offensive stats are also something to not be ignored, his xA and Shot Creating Actions are very high for someone in a pivot.
 
+![Adli stats](/assets/img/Xhaka Adli.png)
+
 Adli might be the most realistic to get of all the players I’ve written about here who can maybe take Xhaka’s place, with Bordeaux in midtable and strapped for funds because of the recent debacle in Ligue 1 TV rights, which screwed over most Ligue 1 clubs. I’d imagine a bid of about 20 million would be enough to convince them to sell, a 300% profit.
 
 ## Manuel Loactelli
+
+![Locatelli](/assets/img/locatelli.jpg)
 
 The most obvious name to be put on any Xhaka replacement list. He in fact has been advertised by many as a “better Xhaka”. His range of passing is beyond impressive and he can do almost anything from just recycling the ball to maintain possession to line breaking progressive passes to switching the play to the other side through a long ball. He stands out in sides which build up play from the back and enjoy possession, making him a key candidate for the Arsenal midfield spot. His progressive passing in the league is only second to Luiz Alberto, who plays in a more advanced position.
 
 His defensive contribution is also not to be overlooked. His tackles and interceptions per 90 are up there with the best in his league and this is inspite of him playing in possession heavy system under De Zerbi. He’s also aerialy imposing, standing at 6’1 feet, he may also prove handy during corners and set pieces.
 
+![Locatelli stats](/assets/img/Xhaka Locatelli.jpg)
+
 He’s currently of interest to many clubs and at the front of the race are Juventus and Arsenal. Like most Italian players he isnt very enthusiastic about a move outside Italy and so inspite of Arsenal being in a position to pay his transfer fee and give him a better contract, he currently prefers a move to Juve. Arsenal’s chances of signing the player rests entirely on Juve not being able to meet Sassuolo’s demands and seem bleak at the moment.
 
 ## Honorable Mentions
 
-> Soumare – Leicester
-> Anguissa – Fulham
-> Fabian Ruiz – Napoli
-> Sergej Milnikovic Savic – Lazio
-> Florian Neuhaus – Monchengladback
+* Soumare – Leicester
+* Anguissa – Fulham
+* Fabian Ruiz – Napoli
+* Sergej Milnikovic Savic – Lazio
+* Florian Neuhaus – Monchengladback
