@@ -2,7 +2,7 @@
 layout: post
 title: Finding a replacement for Granit Xhaka
 gh-repo: ashwin2000/ashwin2000.github.io
-cover-img: /assets/img/cropped_Arsenal.jpg
+cover-img: /assets/img/xhaka.jpg
 thumbnail-img: /assets/img/xhaka.jpg	
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -71,7 +71,7 @@ The most obvious name to be put on any Xhaka replacement list. He in fact has be
 
 His defensive contribution is also not to be overlooked. His tackles and interceptions per 90 are up there with the best in his league and this is inspite of him playing in possession heavy system under De Zerbi. He’s also aerialy imposing, standing at 6’1 feet, he may also prove handy during corners and set pieces.
 
-![Locatelli stats](/assets/img/Xhaka Locatelli.jpg)
+![Locatelli stats](/assets/img/Xhaka Locatelli.png)
 
 He’s currently of interest to many clubs and at the front of the race are Juventus and Arsenal. Like most Italian players he isnt very enthusiastic about a move outside Italy and so inspite of Arsenal being in a position to pay his transfer fee and give him a better contract, he currently prefers a move to Juve. Arsenal’s chances of signing the player rests entirely on Juve not being able to meet Sassuolo’s demands and seem bleak at the moment.
 
