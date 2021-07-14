@@ -15,6 +15,8 @@ Xhaka has been a player who has divided opinions about his time at Arsenal, but 
 
 ![Progressive passers](/assets/img/scatter_prog.png)
 
+![Progressive passers](/assets/img/scatter_prog1.png)
+
 As seen here he is amongst the best progressive passers in the world while maintaining excellent pass completion percentages. One could go so far as to even claim his passing stats have been world-class over the past few seasons and has been so underrated by Arsenal and rival fans alike and has only been given the respect he deserves after his performances at the Euros for Switzerland.
 
 He has been linked with a move away from Arsenal since the start of the window and looking at the situation, a departure seems likely. Jose Mourinho, after taking over the reins at Roma has indentified him as the first choice target for the midfield and after his performances at the Euros other clubs like PSG and Juventus have entered the fray. The supposed fee wanted by Arsenal is in the range of 20 million euros.
