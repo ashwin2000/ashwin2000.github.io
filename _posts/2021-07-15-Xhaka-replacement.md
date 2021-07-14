@@ -9,16 +9,16 @@ tags: [test]
 comments: true
 ---
 
-/
-/
-/
+   
+   
+   
 Xhaka has been a player who has divided opinions about his time at Arsenal, but in recent times has been an undoubtedly important part of Mikel Arteta’s midfield. While some may bring up his error-prone nature, the midfield just hasn’t looked right without him in it, especially with new signing Thomas Partey having spent most of his time injured in his first season in the Premiership. Another major positive about Xhaka is that he’s hardly ever not available for selection. Looking back at the past season and the gruelling schedule which the players had to endure, it wasn’t surprising to see the number of injuries that occurred as a consequence of this. What was surprising though was seeing Xhaka play through this schedule, mid-week and weekend, maintaining high fitness levels. His ball retention and carrying abilities are also underrated aspects of his.
 
 ![Progressive passers](/assets/img/scatter_prog.png)
 
 ![Progressive passers](/assets/img/scatter_prog1.png)
-/
-/
+   
+   
 As seen here he is amongst the best progressive passers in the world while maintaining excellent pass completion percentages. One could go so far as to even claim his passing stats have been world-class over the past few seasons and has been so underrated by Arsenal and rival fans alike and has only been given the respect he deserves after his performances at the Euros for Switzerland.
 
 He has been linked with a move away from Arsenal since the start of the window and looking at the situation, a departure seems likely. Jose Mourinho, after taking over the reins at Roma has indentified him as the first choice target for the midfield and after his performances at the Euros other clubs like PSG and Juventus have entered the fray. The supposed fee wanted by Arsenal is in the range of 20 million euros.
@@ -26,8 +26,8 @@ He has been linked with a move away from Arsenal since the start of the window a
 ![Xhaka stats](/assets/img/Granit Xhaka.png)
 
 So what are we looking for in a Xhaka replacement? Someone younger than 27 years for obvious reasons. Preferably someone with a decent injury record, with star players getting injured at crucial points in the season being a very prevalent issue for Arsenal in the past. And obviously, someone who replicates Xhaka’s best qualities, specifically his passing. While I do love searching for gems outside the top leagues using data, I’ve limited my search to players within the top leagues due to lack of data and also because players from outside cant realistically take up the mantle of a starter for a traditional top 6 club in the Premiership.
-/
-/
+   
+   
 ## Bruno Guimares
 
 ![Guimares](/assets/img/bruno.jpg)
@@ -39,8 +39,8 @@ His passing is impressive with 88.9% of all attempted passes completed. In addit
 ![Guimares stats](/assets/img/Xhaka Guimares.png)
 
 All things said though, this will be a hard transfer to pull off given his length of contract and Lyon playing in Europe next year. Offering him a good contract and promising a good project may help entice him. Lyon may ask for 40-50 million Euros and I think they may be prepared to sell at this because of how Houssem Aouar’s value regressed from last to this season and also because of the new TV deal which blew up, costing the league millions, putting the teams in a severe cash crunch. Of course, they may choose to sell other people before him.
-/
-/
+   
+   
 ## Ryan Gravenberch
 
 ![Gravenberch](/assets/img/Gravenberch.jpeg)
@@ -54,8 +54,8 @@ He’s also someone who is more involved in the attack than Xhaka and is very go
 ![Gravenberch stats](/assets/img/Xhaka Gravenberch.png)
 
 Getting him wouldn’t be a difficult task for Arsenal with Ajax being a traditional selling club that allows their top talents to leave for the right price, the most recent ones being Frenkie de Jong, Matthijs De Ligt and Donny Van De Beek. But a lot of clubs retain an interest in him and this in addition to Mino Raiola’s agent fees may be a stumbling block in his addition.
-/
-/
+   
+   
 ## Yacine Adli
 
 ![Adli](/assets/img/Adli.jpg)
@@ -67,8 +67,8 @@ His career at Bordeaux also didn’t get off to the best start. He started just 
 ![Adli stats](/assets/img/Xhaka Adli.png)
 
 Adli might be the most realistic to get of all the players I’ve written about here who can maybe take Xhaka’s place, with Bordeaux in midtable and strapped for funds because of the recent debacle in Ligue 1 TV rights, which screwed over most Ligue 1 clubs. I’d imagine a bid of about 20 million would be enough to convince them to sell, a 300% profit.
-/
-/
+   
+   
 ## Manuel Loactelli
 
 ![Locatelli](/assets/img/locatelli.jpg)
@@ -80,8 +80,8 @@ His defensive contribution is also not to be overlooked. His tackles and interce
 ![Locatelli stats](/assets/img/Xhaka Locatelli.png)
 
 He’s currently of interest to many clubs and at the front of the race are Juventus and Arsenal. Like most Italian players he isnt very enthusiastic about a move outside Italy and so inspite of Arsenal being in a position to pay his transfer fee and give him a better contract, he currently prefers a move to Juve. Arsenal’s chances of signing the player rests entirely on Juve not being able to meet Sassuolo’s demands and seem bleak at the moment.
-/
-/
+   
+   
 ## Honorable Mentions
 
 * Soumare – Leicester
