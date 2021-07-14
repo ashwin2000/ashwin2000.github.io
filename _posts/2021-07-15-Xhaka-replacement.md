@@ -2,7 +2,7 @@
 layout: post
 title: Finding a replacement for Granit Xhaka
 gh-repo: ashwin2000/ashwin2000.github.io
-cover-img: /assets/img/gx34.jpg
+cover-img: /assets/img/gx348.jpg
 thumbnail-img: /assets/img/xhaka.jpg	
 gh-badge: [star, fork, follow]
 tags: [test]
