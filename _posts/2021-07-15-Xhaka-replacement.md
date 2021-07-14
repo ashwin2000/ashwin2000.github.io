@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-![Xhaka](/assets/img/Xhaka.jpg)
+![Xhaka](/assets/img/xhaka.jpg)
