@@ -1,3 +1,12 @@
+---
+layout: post
+title: What is the blog about?
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
+---
+
 “I would like to finish in one simple sentence: I will miss you. Thank you all for having such an important part of my life, thank you all, well done, bye bye.”, the last words as manager by the legendary Arsene Wenger, whose football enticed many youngsters, me amongst them, to start supporting the Arsenal. While the club isn’t at the pinnacle of English football as it was some years ago, it is the hope of everyone that one day we will be back and that the prestigious Premier League trophy will come back to the Emirates.
 
 In all these years of following football, I’ve found pages analysing players and teams with data visualisation to be very interesting and planned to start one when I could and so in recent times because of the pandemic I’ve found myself much too free for my liking and so have decided to start it now.
