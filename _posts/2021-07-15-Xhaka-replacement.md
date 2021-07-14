@@ -2,7 +2,7 @@
 layout: post
 title: Finding a replacement for Granit Xhaka
 gh-repo: ashwin2000/ashwin2000.github.io
-cover-img: /assets/img/cropped_Arsenal.jpg
+cover-img: /assets/img/gx34.jpg
 thumbnail-img: /assets/img/xhaka.jpg	
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -23,7 +23,7 @@ As seen here he is amongst the best progressive passers in the world while maint
 
 He has been linked with a move away from Arsenal since the start of the window and looking at the situation, a departure seems likely. Jose Mourinho, after taking over the reins at Roma has indentified him as the first choice target for the midfield and after his performances at the Euros other clubs like PSG and Juventus have entered the fray. The supposed fee wanted by Arsenal is in the range of 20 million euros.
 
-![Xhaka stats](/assets/img/Granit Xhaka.png)
+![Xhaka stats](/assets/img/Granit Xhaka.png){: .mx-auto.d-block :}
 
 So what are we looking for in a Xhaka replacement? Someone younger than 27 years for obvious reasons. Preferably someone with a decent injury record, with star players getting injured at crucial points in the season being a very prevalent issue for Arsenal in the past. And obviously, someone who replicates Xhaka’s best qualities, specifically his passing. While I do love searching for gems outside the top leagues using data, I’ve limited my search to players within the top leagues due to lack of data and also because players from outside cant realistically take up the mantle of a starter for a traditional top 6 club in the Premiership.
    
