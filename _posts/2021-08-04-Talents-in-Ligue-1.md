@@ -18,3 +18,7 @@ The French Leagues have established themselves as having no dearth of young tale
 ## Jérémy Doku
 
 ![Doku](/assets/img/doku.jpg)
+
+Now this is a name which is still fresh in everyone's minds, keeping in mind his recent performances in the Euros for Belgium. A product of the famed Anderlecht academy, he's been a long term Liverpool target with Klopp looking at him as a potential successor to Sadio Mane in the future. His biggest strength is definitely his dribbling, he's very direct and likes to take his man, his pace and arsenal of tricks aid him in this. A Left winger in his Anderlecht days, he predominantly played on the right as he was brought in by Rennes to replace Raphinha, who was going to Leeds. If there were anything to improve on, it would be his positioning and decison making in the final third.
+
+While Rennes would be open to sell one of their players to raise funds, I personally think they would sell Camavinga before they sell Doku given his contract period and his stance on signing a new contract. And even if they were forced to sell Doku it would be for a significantly greater amount than the 26 million they paid for him.
