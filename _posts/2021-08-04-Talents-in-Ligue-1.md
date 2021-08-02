@@ -15,3 +15,6 @@ Canal plus chairman, Maxime Saada described the deal as unreasonable and insiste
 
 The French Leagues have established themselves as having no dearth of young talents and this could force some clubs to sell their players for a reasonable price. Let's take a look at some of the best talents and how they'd fit in at elite clubs.
 
+## Jérémy Doku
+
+![Doku](/assets/img/doku.jpg)
