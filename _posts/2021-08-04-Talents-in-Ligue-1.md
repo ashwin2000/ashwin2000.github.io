@@ -19,7 +19,11 @@ The French Leagues have established themselves as having no dearth of young tale
 
 ![Gouiri](/assets/img/gouiri.jpg)
 
+When he left his boyhood club in Lyon to Nice because of a lack of playing time, no one expected him to have the impact he did in Adrian Ursea’s side. He's been the bright spark in an otherwise very dull Nice attack. Not only was he Nice’s top scorer, he was also their top creator, with seven Ligue 1 assists. It was his form and Saliba's addition in the second half of the season which fired Nice to a 9th spot, just 6 points off a European spot after stuggling in relegation zone very long before.
 
+His role in the Nice attack is akin to that of Mohammed Salah in Liverpool, that of an inside forward. He likes to cut inside and deliver a good cross or curl a shot into the far corner. Another thing of note is that this position of his isnt his natural or preffered one, but one of circumstance, he's actually a centre forward. His output is also very respectable with 24 G/A this season in all comps, especially with this being his first regular full season in the senior division. He is a predator in the box and his decision making in the box is really impressive for someone his age. 
+
+While I dont think he may get regular playing time at an elite club right away, he might be able to really shine at a midtable club in the Premier League and one club in particular I'd like to see him at is Brighton under Graham Potter. He could also obviously choose to continue his development at Nice and then make a big money move to a Big club in say one or two seasons. 
 
 ## Jérémy Doku
 
