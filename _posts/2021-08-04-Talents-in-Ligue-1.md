@@ -35,8 +35,14 @@ He is a modern playmaker, and has all the attributes expected off him, he's vers
 
 Since he just arrived last summer and also with Saint Etiene not in any particular cash crunch as compared to the other french clubs, with the sales of Saliba and Fofana in previous seasons for big money, there is no particular urgency to sell as of now. He'd also probably want to stay seeing his progress over the past year. 
 
-## Khéphren Thuram
+## Aurélien Tchouaméni
+![Tchouameni](/assets/img/tchouameni.jpg)
 
+An important component of the Monaco midfield, he joined Monaco from Bordeaux in the winter of 2020 for a sum of 18 million Euros. He is equally capable of playing both as a 6 or an 8, with especially noteworthy defensive attributes. Chelsea fans have been fancying him as a Kante replacement and such praise does not come easy. Infact I think he is on a similar level as Eduardo Camavinga and will form a daunting pivot alongside him in the French national team in the future.
+
+Initially struggling for gametime after moving clubs, last season has been absolutely massive for Tchouaméni. He started almost every game under Niko Kovac and was absolutely instrumental in their push for Europe while seemed like a far fetched dream after the previous season in which they finished 9th. An absolute monster defensively, he is around 185cm tall and is very good at winning aerial duels, winnning over 2.7 per 90. He like to drive forward with the ball into advanced positions after winning the ball, thereby combining his defensive nous with one eye looking into the final third. This is evident as seen by his superior attacking stats as compared to other traditional Defensive Midfielders.
+
+In addition to Chelsea, Real Madrid have also been looking at him as an alternative to Camavinga, their long term target. Monaco have made a strong push for Europe and have now finished in a Europa League spot and will look to improve on this and get Champions League football next season and keeping Tchouameni will be an integral part of this. But safe to say a bid in the neighborhood of 50 million(like they accepted for Fabinho) might entice them to sell.
 
 ## Jérémy Doku
 
