@@ -13,7 +13,7 @@ The French League has been among the worst hit by the pandemic. Some smaller Fre
 
 Canal plus chairman, Maxime Saada described the deal as unreasonable and insisted that Mediapro had overpaid. His words proved to be prophetic and Mediapro couldnt get the required amount of subscribers to break even. This resulted in Mediapro defaulting on a 400 million payment due four months into the deal period and requesting a 25 percent haircut on the deal citing Covid 19 as the reason and even this hasnt been paid in full yet. The French clubs and the LFP (Ligue de Football Professionnel) are now surviving with the help of government backed loans. Mediapro is now closing down in France and the deal is now being renegotiated by Canal plus, who are offering a lowball offer of 700 million which is even lower than what they were paying before the new deal with Mediapro was struck. The LFP might have no other choice but to accept their best offer. 
 
-The French Leagues have established themselves as having no dearth of young talents and this could force some clubs to sell their players for a reasonable price. Let's take a look at some of the best talents and how they'd fit in at elite clubs.
+The French Leagues have established themselves as having no dearth of young talents and this could force some clubs to sell their players for a reasonable price. Let's take a look at some of the best talents in France to keep and eye out for in the future and their transfer situations.
 
 ## Amine Gouiri
 
@@ -24,6 +24,19 @@ When he left his boyhood club in Lyon to Nice because of a lack of playing time,
 His role in the Nice attack is akin to that of Mohammed Salah in Liverpool, that of an inside forward. He likes to cut inside and deliver a good cross or curl a shot into the far corner. Another thing of note is that this position of his isnt his natural or preffered one, but one of circumstance, he's actually a centre forward. His output is also very respectable with 24 G/A this season in all comps, especially with this being his first regular full season in the senior division. He is a predator in the box and his decision making in the box is really impressive for someone his age. 
 
 While I dont think he may get regular playing time at an elite club right away, he might be able to really shine at a midtable club in the Premier League and one club in particular I'd like to see him at is Brighton under Graham Potter. He could also obviously choose to continue his development at Nice and then make a big money move to a Big club in say one or two seasons. 
+
+## Adil Aouchiche
+
+![Aouchiche](/assets/img/aouchiche.jpg)
+
+Another player soon to join the "ones that got away" at Arsenal, he chose to join Saint Etienne over Arsenal and signing a new contract at Paris Saint Germain. PSG wanted to keep him, with the dissolution of their U23 side due to the club believing the costs of running a youth team outweighed the benefits, a number of their exciting youngsters were up for grabs. He prioritised playing time and his progress over a big money move and I respect him for it. Infact it actually seems to have paid off with him having a proper breakthrough season in the previous season having established him as a regular in Claude Puel's side.
+
+He is a modern playmaker, and has all the attributes expected off him, he's versatile, intelligent and technically good. But all this doesnt mean he cant stand his ground in a more physical league like the Premiership. His tackles per 90 was an indicator of how good his defensive capabilities are with him averaging over 2 over the season. His work rate off the ball is very good as is characterised by his high number of “Pressures per 90”. His playing style has drawn comparisons to Hakim Ziyech and Papu Gomez and his creative numbers stacked up against his senior counterparts are actually pretty good. His Shot Creating Actions per 90 are in the top 5 percentile. If he has to improve on anything it would be to increase keeping possession of the ball instead of trying to provide a through ball all the time, so simply put, he needs to improve his pass selection for the senior level.
+
+Since he just arrived last summer and also with Saint Etiene not in any particular cash crunch as compared to the other french clubs, with the sales of Saliba and Fofana in previous seasons for big money, there is no particular urgency to sell as of now. He'd also probably want to stay seeing his progress over the past year. 
+
+## Khéphren Thuram
+
 
 ## Jérémy Doku
 
