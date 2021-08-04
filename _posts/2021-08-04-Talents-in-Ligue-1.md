@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talents in Ligue 1
+title: Younsters to keep an eye on in Ligue 1
 gh-repo: ashwin2000/ashwin2000.github.io
 cover-img: /assets/img/cropped_Arsenal.jpg
 thumbnail-img: /assets/img/Ligue1.png	
