@@ -4,7 +4,6 @@ title: Younsters to keep an eye on in Ligue 1
 gh-repo: ashwin2000/ashwin2000.github.io
 cover-img: /assets/img/cropped_Arsenal.jpg
 thumbnail-img: /assets/img/Ligue1.png	
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
@@ -24,6 +23,18 @@ When he left his boyhood club in Lyon to Nice because of a lack of playing time,
 His role in the Nice attack is akin to that of Mohammed Salah in Liverpool, that of an inside forward. He likes to cut inside and deliver a good cross or curl a shot into the far corner. Another thing of note is that this position of his isnt his natural or preffered one, but one of circumstance, he's actually a centre forward. His output is also very respectable with 24 G/A this season in all comps, especially with this being his first regular full season in the senior division. He is a predator in the box and his decision making in the box is really impressive for someone his age. 
 
 While I dont think he may get regular playing time at an elite club right away, he might be able to really shine at a midtable club in the Premier League and one club in particular I'd like to see him at is Brighton under Graham Potter. He could also obviously choose to continue his development at Nice and then make a big money move to a Big club in say one or two seasons. 
+
+## Rayan Cherki
+
+![Cherki](/assets/img/cherki.jpeg)
+
+Tipped to be the next big thing in French football, Cherki signed his first professional contract at just 15 and made his debut at a even younger age than Kylian Mbappe. He is best suited to playing as an attacking midfielder in a 4-2-3-1 formation. Real Madrid are known to be keeping tabs on him which speaks loads about his potential. He has a respectable 8 G/A this season while not featuring as a starter regularly.
+
+He is an advanced playmaker who likes to be fielded in a free role as an attacking midfielder with little defensive contribution. His creative potential is world class and is able to deliver crosses and passes into the box with pinpoint accuracy. His dribbling is another one of his strengths and he doesnt just set up other players, he is also very capable of playing off other players with surging runs into the box. He's also ambidextrous. His playing style has been likened to David Silva and Mesut Ozil. One thing he's pretty bad at is defensively and nowadays the 10 role is becoming rare with every position in the midfield expected to do some defensive work.
+
+From a young age, he has been tipped to follow in the footsteps of other famous ‘Les Gones’ youth graduates such as Nabil Fekir, Karim Benzema, Hatem Ben Arfa, Samuel Umtiti, and Alexandre Lacazette. Infact there were reports this summer amid Real Madrid interest that, Lyon were willing to let him go for close to 25 million. 
+
+
 
 ## Adil Aouchiche
 
